@@ -5,5 +5,5 @@ variable "aws_region" {
 
 variable "bucket_name" {
   description = "S3 bucket name"
-  default     = "aws-devops-poc-live-bucket1"
+  default     = "aws-devops-poc-live-bucket"
 }
